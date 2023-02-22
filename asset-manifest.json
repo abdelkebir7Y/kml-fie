@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kml-file/static/css/main.4152c3d3.css",
+    "main.js": "/kml-file/static/js/main.4e8327aa.js",
+    "index.html": "/kml-file/index.html",
+    "main.4152c3d3.css.map": "/kml-file/static/css/main.4152c3d3.css.map",
+    "main.4e8327aa.js.map": "/kml-file/static/js/main.4e8327aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.4e8327aa.js"
+  ]
+}
